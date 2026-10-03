@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of imshuzai/bbcode.** Not for installation: use [Packagist](https://packagist.org/packages/imshuzai/bbcode) or the [upstream repository](https://github.com/imshuzai/BBcode).
 
-**0** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/imshuzai-bbcode/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^1.0`
+**2** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/imshuzai-bbcode/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2022-07-29 | `^1.0` | [Browse](https://github.com/flarchive/imshuzai-bbcode/tree/archive/v0.0.1) |
+| `0.0.2` | 2022-07-30 | `^1.0` | [Browse](https://github.com/flarchive/imshuzai-bbcode/tree/archive/v0.0.2) |
 
 Catalog entry: [packages/imshuzai-bbcode.json](https://github.com/flarchive/archive-index/blob/main/packages/imshuzai-bbcode.json)
 
